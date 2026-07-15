@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Severance Defect and the Binding Functional"
+type: article
+authors:
+  - family-names: "Barziankou"
+    given-names: "Maksim"
+    alias: "MxBv"
+    email: "research@petronus.eu"
+doi: "10.17605/OSF.IO/5VJMR"
+date-released: "2026-07-15"
+version: "2.1"
+license: "CC-BY-NC-ND-4.0"
+repository-code: "https://github.com/petronushowcore-mx/Severance-Defect-and-the-Binding-Functional"
+url: "https://petronus.eu/blog/severance-defect-and-the-binding-functional/"
