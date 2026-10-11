@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Severance_Defect_and_the_Binding_Functional-cover.png" alt="Severance Defect and the Binding Functional" width="100%">
+  <img src="assets/Severance_Defect_and_the_Binding_Functional-cover.gif" alt="Severance Defect and the Binding Functional" width="100%">
 </p>
 
 # Severance Defect and the Binding Functional
