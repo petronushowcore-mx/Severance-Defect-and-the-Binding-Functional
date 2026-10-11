@@ -71,6 +71,15 @@ ots verify "provenance/Severance_Defect_and_the_Binding_Functional.md.ots"
 
 The formal note and [*Nothing Is Solid*](https://petronus.eu/blog/essay-through-a-life-part-viii/) form one two-part publication under the shared DOI [10.17605/OSF.IO/5VJMR](https://doi.org/10.17605/OSF.IO/5VJMR).
 
+## Boundary recomposition addendum
+
+[*Boundary Recomposition with Ordered Witnesses*](<addendum/Boundary Recomposition with Ordered Witnesses (2026).md>) gives a finite construction for contracting and replacing graph components while retaining an ordered window trace. It distinguishes preserved totals from the location of a capacity crossing. The addendum uses the same DOI as this publication pair.
+
+- [Protected PDF](<addendum/Boundary Recomposition with Ordered Witnesses (2026).pdf>)
+- [Source archive](<addendum/Boundary Recomposition with Ordered Witnesses - Sources (2026).zip>)
+
+The archive supplies an overlay for the pinned TECTONICA checkout described in the addendum. Each of the three files has a detached GPG signature and an OpenTimestamps proof beside it.
+
 ## License
 
 The paper, executable verifier, and cover are distributed under CC BY-NC-ND 4.0. No separate software licence is granted.
